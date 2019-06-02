@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HeimaShop:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="691d8359-bf75-490f-8e01-bc3f9adbea7b" name="Default Changelist" comment="黑马商城">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HeimaShop_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeimaShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/dao/ProductDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/domain/Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/domain/CartItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/domain/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/domain/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/domain/OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/domain/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/domain/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/service/MailUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/service/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/util/CommonsUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/util/DataSourceUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/util/MD5Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/util/MailUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/util/MailUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/web/servlet/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/web/servlet/ProductServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/web/servlet/UserServlet$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/classes/com/itheima/web/servlet/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/activation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/commons-dbutils-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/bottom.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/category/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/category/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/category/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/left.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/product/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/admin/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/abc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/bc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/bcc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/beijingnongshang.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/bh.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/bj.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/ccb.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/cib.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/cmb.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/cmbc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/dy.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/gf.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/guangda.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/hx.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/icbc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/nanjing.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/ningbo.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/pingan.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/post.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/sfz.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/sh.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/shpd.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/zheshang.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/bank_img/zx.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/css/Style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/css/dtree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/css/left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/default.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/059b5245-e3c8-43bf-80fe-700f0e4e68b8-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/0ff130db-0a1b-4b8d-a918-ed9016317009-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/4a51167a-89d5-4710-aca2-7c76edc355b8-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/51afeef5-f6cb-4936-abea-315cfca0edc0-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/54890cf9-91b0-40bc-9f68-51462e9c43a8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/750a9ce8-8c19-444d-b8cc-f3e7e786ec5d-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/93b9e55f-cbae-4c3c-b2f7-2636c7369db7-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/My97DatePicker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/adidas.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/base64.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/beijirong.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bigPic13867cc1-935a-4a3a-98f9-edf87ddb1c09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bigPic372e7faa-3ad0-444d-a89b-a8e9f0d6e929.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bigPic4ed6edbf-fb3e-49a7-be5e-361b2ce02961.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bigPic5ab54f67-a479-48fe-a41d-7d34b57036a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bigPica5720219-ba48-460a-a084-24d5b314bd03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bigPica7e5d3dd-5984-4d0f-9851-35cc0987d9b9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bigPicaa443d05-27b4-4964-958e-c81536f01d04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bigPicc1e3a29e-17f5-4d9f-a186-b2c5a0b39b88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bigPicd0459632-fe4e-4a5d-8373-1a67c9f43ec2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bigPice7c2e240-4147-4c11-b369-db3765ec3df9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bigPicee0785e3-68e2-4e23-93ef-68904bc2a3c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/captcha (2).jhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/captcha.jhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/common.css.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/common.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/dadonggua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/eifini.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/f37ba36a-181b-4161-a88f-f74c9adb485d-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/f5e39c37-94b2-462e-8e58-8bde3c5f1b8c-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/hengyuanxiang.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/i.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/index_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/index_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/index_right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/index_top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/jackjones.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/jsbn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/lining.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/maoren.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/nike.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/r___________renleipic_01/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/r___________renleipic_01/bigPic139f030b-d68b-41dd-be6d-b94cc568d3c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/r___________renleipic_01/bigPic19533252-0faa-4e64-8077-6e1908f47739.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/r___________renleipic_01/bigPic1ea8f1c9-8b8e-4262-8ca9-690912434692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/r___________renleipic_01/bigPic5f3622b8-028a-4e62-a77f-f41a16d715ed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/r___________renleipic_01/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/r___________renleipic_01/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/r___________renleipic_01/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/r___________renleipic_01/logo1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/r___________renleipic_01/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/registImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/regist_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/semir.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/sentubila.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/septwolves.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/sundance.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/vimly.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/image/yishion.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/IconTexto_WebDev_009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/article.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/cart-empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/cart1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/common.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/dialog_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/finalbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/gif53_029.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/i_del.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/i_edit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/index.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/info.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/loading_bar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/loading_icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/login.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/loginbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/member.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/message.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/mis_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/mis_05a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/mis_05b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/mis_05c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/order.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/password.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/regist_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/register.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/review.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/shim.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/title2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/top_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/top_100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/base.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/cd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/empty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/folder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/folderopen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/globe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/imgfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/join.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/joinbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/minusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/musicfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/nolines_minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/nolines_plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/page.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/plusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/question.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/images/tree/trash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/bartlesvillecf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/emancipation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/okwu-athletics.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/okwu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/img/title2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/js/dtree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/order_info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/order_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/product_info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/product_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/556d64fcNf28f90d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/c_0050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs10001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs10002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs10003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs10004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs10005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs10006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs10007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs10008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs10009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs10010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs20001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs20002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs20003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs20004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs20005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs20006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs20007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs20008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs20009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs20010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs30001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs30002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs30003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs30004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs30005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs30006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs30007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs30008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs30009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs30010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs40001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs40002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs40003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs40004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs40005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs40006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs40007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs40008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs40009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs40010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs40011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs50001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs50002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs50003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs50004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs50005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs50006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs50007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs50008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs50009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs50010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs60001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs60002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs60003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs60004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs60005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs60006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs60007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs60008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs60009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs60010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs70001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs70002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs70003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs70004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs70005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs70006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs70007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs70008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs70009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/cs70010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/duanxue1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/duanxue2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/duanxue3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/duanxue4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/1/nvxie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/155210007679548_y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/562d008aN963ce5f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/5632bdf8N789e6659.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/5632c2eeNbc918af0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/90560009093007_y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/c_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/c_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/c_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/c_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/c_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/c_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/c_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/dn1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/dn2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/f001a62f-a49d-4a4d-b56f-2b6908a0002c_g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/big01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/middle01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/small01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/small02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/small03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/small04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/small05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/small06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/small07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/small08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/hao/small09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/news_left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/products/news_right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/registerFail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/HeimaShop_Web_exploded/registerSuccess.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/dao/ProductDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/domain/Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/domain/CartItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/domain/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/domain/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/domain/OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/domain/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/domain/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/service/MailUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/service/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/util/CommonsUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/util/DataSourceUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/util/MD5Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/util/MailUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/util/MailUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/web/servlet/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/web/servlet/ProductServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/web/servlet/UserServlet$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/classes/com/itheima/web/servlet/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/activation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-dbutils-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-8.0.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/bottom.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/category/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/category/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/category/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/left.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/product/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/top.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/admin/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/abc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/bc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/bcc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/beijingnongshang.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/bh.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/bj.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/ccb.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/cib.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/cmb.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/cmbc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/dy.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/gf.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/guangda.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/hx.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/icbc.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/nanjing.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/ningbo.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/pingan.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/post.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/sfz.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/sh.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/shpd.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/zheshang.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/bank_img/zx.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/Style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/dtree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/default.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/059b5245-e3c8-43bf-80fe-700f0e4e68b8-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/0ff130db-0a1b-4b8d-a918-ed9016317009-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/4a51167a-89d5-4710-aca2-7c76edc355b8-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/51afeef5-f6cb-4936-abea-315cfca0edc0-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/54890cf9-91b0-40bc-9f68-51462e9c43a8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/750a9ce8-8c19-444d-b8cc-f3e7e786ec5d-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/93b9e55f-cbae-4c3c-b2f7-2636c7369db7-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/My97DatePicker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/adidas.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/base64.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/beijirong.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bigPic13867cc1-935a-4a3a-98f9-edf87ddb1c09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bigPic372e7faa-3ad0-444d-a89b-a8e9f0d6e929.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bigPic4ed6edbf-fb3e-49a7-be5e-361b2ce02961.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bigPic5ab54f67-a479-48fe-a41d-7d34b57036a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bigPica5720219-ba48-460a-a084-24d5b314bd03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bigPica7e5d3dd-5984-4d0f-9851-35cc0987d9b9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bigPicaa443d05-27b4-4964-958e-c81536f01d04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bigPicc1e3a29e-17f5-4d9f-a186-b2c5a0b39b88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bigPicd0459632-fe4e-4a5d-8373-1a67c9f43ec2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bigPice7c2e240-4147-4c11-b369-db3765ec3df9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bigPicee0785e3-68e2-4e23-93ef-68904bc2a3c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/captcha (2).jhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/captcha.jhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/common.css.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/common.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/dadonggua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/eifini.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/f37ba36a-181b-4161-a88f-f74c9adb485d-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/f5e39c37-94b2-462e-8e58-8bde3c5f1b8c-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/hengyuanxiang.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/i.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/index_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/index_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/index_right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/index_top.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/jackjones.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/jsbn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/lining.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/maoren.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/nike.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/p.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/r___________renleipic_01/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/r___________renleipic_01/bigPic139f030b-d68b-41dd-be6d-b94cc568d3c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/r___________renleipic_01/bigPic19533252-0faa-4e64-8077-6e1908f47739.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/r___________renleipic_01/bigPic1ea8f1c9-8b8e-4262-8ca9-690912434692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/r___________renleipic_01/bigPic5f3622b8-028a-4e62-a77f-f41a16d715ed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/r___________renleipic_01/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/r___________renleipic_01/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/r___________renleipic_01/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/r___________renleipic_01/logo1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/r___________renleipic_01/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/registImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/regist_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/semir.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/sentubila.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/septwolves.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/sundance.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/vimly.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/image/yishion.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/IconTexto_WebDev_009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/article.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/cart-empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/cart.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/cart1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/common.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/dialog_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/finalbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/gif53_029.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/i_del.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/i_edit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/index.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/info.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/loading_bar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/loading_icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/login.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/loginbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/member.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/message.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/mis_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/mis_05a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/mis_05b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/mis_05c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/order.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/password.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/product.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/regist_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/register.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/review.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/shim.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/title2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/top_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/top_100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/base.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/cd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/empty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/folder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/folderopen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/globe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/imgfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/join.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/joinbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/minusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/musicfolder.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/nolines_minus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/nolines_plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/page.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/plus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/plusbottom.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/question.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/images/tree/trash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/bartlesvillecf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/emancipation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/okwu-athletics.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/okwu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/img/title2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/dtree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/jquery-1.11.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/order_info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/order_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/product_info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/product_list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/556d64fcNf28f90d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0033.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0045.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/c_0050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs10001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs10002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs10003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs10004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs10005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs10006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs10007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs10008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs10009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs10010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs20001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs20002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs20003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs20004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs20005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs20006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs20007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs20008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs20009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs20010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs30001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs30002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs30003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs30004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs30005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs30006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs30007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs30008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs30009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs30010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs40001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs40002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs40003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs40004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs40005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs40006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs40007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs40008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs40009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs40010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs40011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs50001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs50002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs50003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs50004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs50005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs50006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs50007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs50008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs50009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs50010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs60001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs60002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs60003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs60004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs60005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs60006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs60007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs60008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs60009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs60010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs70001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs70002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs70003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs70004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs70005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs70006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs70007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs70008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs70009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/cs70010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/duanxue1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/duanxue2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/duanxue3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/duanxue4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/1/nvxie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/155210007679548_y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/562d008aN963ce5f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/5632bdf8N789e6659.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/5632c2eeNbc918af0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/90560009093007_y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/c_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/c_0002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/c_0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/c_0004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/c_0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/c_0006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/c_0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/dn1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/dn2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/f001a62f-a49d-4a4d-b56f-2b6908a0002c_g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/big01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/middle01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/small01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/small02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/small03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/small04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/small05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/small06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/small07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/small08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/hao/small09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/news_left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/products/news_right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/registerFail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/registerSuccess.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/dao/ProductDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/domain/Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/domain/CartItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/domain/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/domain/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/domain/OrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/domain/PageBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/domain/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/service/MailUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/service/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/util/CommonsUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/util/DataSourceUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/util/MD5Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/util/MailUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/util/MailUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/web/servlet/BaseServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/web/servlet/ProductServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/web/servlet/UserServlet$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/itheima/web/servlet/UserServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HeimaShop/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/dao/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/domain/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/domain/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/domain/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/domain/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/domain/PageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/service/MailUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/util/CommonsUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/util/DataSourceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/util/MD5Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/util/MailUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/web/servlet/BaseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/web/servlet/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/itheima/web/servlet/UserServlet.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HeimaShop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/css/dtree.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/admin/category/add.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebContent/image/slider.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/admin/bottom.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+              <folding>
+                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#596#602#0#HTML" expanded="true" />
+                <element signature="e#602#608#0#HTML" expanded="true" />
+                <element signature="e#608#614#0#HTML" expanded="true" />
+                <element signature="e#614#620#0#HTML" expanded="true" />
+                <element signature="e#620#626#0#HTML" expanded="true" />
+                <element signature="e#626#632#0#HTML" expanded="true" />
+                <element signature="e#632#638#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/product_list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="131" column="35" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/css/Style1.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="535" column="32" selection-start-line="535" selection-start-column="32" selection-end-line="535" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/images/loading_icon.gif">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/itheima/service/MailUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/itheima/service/UserService.java" />
+        <option value="$PROJECT_DIR$/WebContent/image/slider.css" />
+        <option value="$PROJECT_DIR$/WebContent/admin/bottom.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/product_list.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/css/Style1.css" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="87" />
+    <option name="y" value="98" />
+    <option name="width" value="1750" />
+    <option name="height" value="910" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HeimaShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HeimaShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HeimaShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HeimaShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HeimaShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HeimaShop" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="update-resources" />
+      <deployment>
+        <artifact name="HeimaShop:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/heimashop" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_38_HeimaShop" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60575" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="HeimaShop:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="update-resources" />
+      <deployment>
+        <artifact name="HeimaShop:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/heimashop" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_HeimaShop" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60575" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="HeimaShop:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="691d8359-bf75-490f-8e01-bc3f9adbea7b" name="Default Changelist" comment="" />
+      <created>1559479068202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559479068202</updated>
+      <workItem from="1559479071397" duration="2499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2499000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="70" y="79" width="1400" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.33023256" side_tool="true" visible="true" weight="0.24962743" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.66976744" visible="true" weight="0.24962743" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5007452" side_tool="true" weight="0.32984293" />
+      <window_info active="true" anchor="bottom" id="Messages" order="3" sideWeight="0.49925485" visible="true" weight="0.6241259" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49925485" weight="0.32984293" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.1451049" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" sideWeight="0.49925485" weight="0.6666667" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="黑马商城" />
+    <option name="LAST_COMMIT_MESSAGE" value="黑马商城" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/service/MailUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/web/servlet/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itheima/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/css/dtree.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/admin/category/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/images/loading_icon.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/images/loading_bar.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/image/login.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/image/logo.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/image/l.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/image/login.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/admin/bottom.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#596#602#0#HTML" expanded="true" />
+            <element signature="e#602#608#0#HTML" expanded="true" />
+            <element signature="e#608#614#0#HTML" expanded="true" />
+            <element signature="e#614#620#0#HTML" expanded="true" />
+            <element signature="e#620#626#0#HTML" expanded="true" />
+            <element signature="e#626#632#0#HTML" expanded="true" />
+            <element signature="e#632#638#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/product_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="131" column="35" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/images/finalbutton.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/css/Style1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="535" column="32" selection-start-line="535" selection-start-column="32" selection-end-line="535" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/image/slider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>HeimaShop:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|HeimaShop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
